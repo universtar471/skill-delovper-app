@@ -1,0 +1,2 @@
+test_id,capability_id,platform,scenario,environment,expected_result,actual_result,status,evidence,executed_at
+TEST-EXAMPLE,CAP-EXAMPLE,web,Disconnected,UNVERIFIED,Show actionable error and disable action,,NOT_RUN,,

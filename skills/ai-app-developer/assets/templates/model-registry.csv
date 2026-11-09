@@ -1,0 +1,2 @@
+model_id,provider_id,feature_id,task,operation,platforms,supported_inputs,supported_outputs,supports_reference_image,supports_mask,auth_state,connection_state,capability_status,test_status,test_evidence,last_verified_utc,catalog_checked_utc,ttl_hours,enabled_for_feature,notes
+MODEL-EXAMPLE,PROVIDER-EXAMPLE,FEAT-ARCH-IMAGE-GENERATE,text_to_image,UNVERIFIED,web|android|windows,prompt,image/png,no,no,unknown,unknown,unknown,not_tested,,, ,24,no,Example only; do not display in production

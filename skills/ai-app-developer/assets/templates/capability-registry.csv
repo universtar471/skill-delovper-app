@@ -1,0 +1,2 @@
+capability_id,feature_id,name,execution_mode,provider,operation,platform,requires_auth,required_scopes,input_schema,output_schema,availability,readiness_evidence,last_verified,notes
+CAP-EXAMPLE,FEAT-EXAMPLE,Generate preview,api,UNVERIFIED,POST /generate,web|android|windows,yes,UNVERIFIED,GenerationRequest,GenerationResult,UNVERIFIED,, ,Example only

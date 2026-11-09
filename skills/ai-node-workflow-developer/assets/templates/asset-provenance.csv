@@ -1,0 +1,2 @@
+Asset_ID,Parent_Asset_ID,Kind,MIME_Type,SHA256,Width,Height,Duration_Sec,Created_At,Storage_Ref,Source_Node_ID,Run_ID,Consent_or_License,Retention_Notes
+ASSET-001,,IMAGE,image/png,,,,,,UNASSIGNED,,,UNVERIFIED,

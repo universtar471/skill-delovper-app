@@ -1,0 +1,2 @@
+control_id,requirement_id,feature_id,screen_id,command_name,control_type,icon_name,visible_label,accessible_name,help_control_id,trigger,input_summary,output_summary,states,visibility_rules,component,handler,test_id,approval_status,implementation_status
+CTRL-EXAMPLE,REQ-EXAMPLE,FEAT-EXAMPLE,SCR-EXAMPLE,Open settings,icon-button,settings,,Open settings,CTRL-HELP-EXAMPLE,click or tap,None,Show settings panel,idle|hover|focus|disabled,When project open,UNVERIFIED,UNVERIFIED,TEST-EXAMPLE,pending,not_started

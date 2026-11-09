@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Node Workflow Developer"
+  short_description: "Design and test AI image/video node workflows with real connections"
+  brand_color: "#5E8EC7"

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "exampleOnly": true,
+  "batchId": "example-batch-001",
+  "nodeId": "example-node-batch-001",
+  "workflowRevision": "example-rev-001",
+  "modelRef": {"provider": "DEMO_ONLY", "modelId": "unverified-placeholder"},
+  "jobs": [
+    {"jobId": "example-job-1", "variantId": "daylight", "status": "not_run", "assetRef": null, "error": null}
+  ],
+  "verification": {"status": "NOT_RUN", "evidence": []}
+}

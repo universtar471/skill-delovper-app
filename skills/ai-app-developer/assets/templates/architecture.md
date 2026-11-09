@@ -1,0 +1,11 @@
+# ARCHITECTURE
+- Mô tả hệ thống và nền tảng:
+- Quyết định công nghệ + ADR:
+- Luồng dữ liệu / quyền truy cập:
+- Các module UI / domain / data:
+- Schema và API contract:
+- Secrets / auth / permissions:
+- Offline, lỗi và recovery:
+- Lệnh setup/build/test:
+- Phụ thuộc và giấy phép:
+- Chiến lược đóng gói và triển khai:

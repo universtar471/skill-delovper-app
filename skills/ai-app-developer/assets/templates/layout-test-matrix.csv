@@ -1,0 +1,7 @@
+test_id,screen_id,platform,viewport_or_window,os_dpi_or_font_scale,interface_zoom,preview_content_zoom,orientation,content_case,expected_layout_mode,panels_accessible,controls_no_overlap,critical_text_visible,preview_usable,help_in_bounds,horizontal_page_overflow,actual_result,evidence_path,notes
+LAYOUT-001,SCR-EDITOR,web,390x844,normal,100%,fit,portrait,long-filename,compact,,,,,,,,,
+LAYOUT-002,SCR-EDITOR,web,768x1024,normal,125%,200%,portrait,error-state,stacked,,,,,,,,,
+LAYOUT-003,SCR-EDITOR,web,1280x720,normal,150%,fit,landscape,long-Vietnamese-text,adaptive,,,,,,,,,
+LAYOUT-004,SCR-EDITOR,web,1920x1080,normal,100%,50%,landscape,normal,wide,,,,,,,,,
+LAYOUT-005,SCR-EDITOR,android,small-phone,fontScale-1.3,system,200%,portrait,keyboard-open,compact,,,,,,,,,
+LAYOUT-006,SCR-EDITOR,windows,min-supported-window,DPI-150%,system,fit,landscape,long-filename,compact,,,,,,,,,

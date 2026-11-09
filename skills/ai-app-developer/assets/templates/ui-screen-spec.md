@@ -1,0 +1,11 @@
+# SCREEN-[ID]
+- Màn hình, mục tiêu, route:
+- Nguồn tham chiếu (đã xem/chưa xem):
+- Bố cục / vùng / responsive:
+- Token: font, kích thước, màu HEX, spacing, radius, icons:
+- Component: tên, dữ liệu, callback, enabled/disabled:
+- Trạng thái: normal, empty, loading, error, success:
+- Điều hướng / quay lại / phím tắt:
+- Animation / reduced motion:
+- Accessibility:
+- Tiêu chí nghiệm thu ảnh chụp và hành vi:

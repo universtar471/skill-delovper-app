@@ -1,0 +1,15 @@
+# MODEL_SELECTION_CONTRACT — per feature
+- Feature ID / task: 
+- Required input variants and output MIME: 
+- Platform and provider/credential boundary: 
+- Provider discovery source and checked date: 
+- Real invocation operation and stable model IDs: 
+- Model allowlist, ranked order and why: 
+- Default strict filter (verified, healthy, authorized): 
+- Unsupported models / exclusion reasons: 
+- Fallback policy, model pinning and disclosure: 
+- Costs, credits, rate limits and approval of paid probes: 
+- Refresh TTL and revalidation triggers: 
+- UI states (loading/empty/offline/denied/quota/error): 
+- Test matrix and evidence: 
+- Owner sign-off: 

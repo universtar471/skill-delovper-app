@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "workflowId": "example-architecture-ai",
+  "status": "draft",
+  "nodes": [
+    {
+      "id": "img1",
+      "type": "image-input",
+      "typeVersion": 1,
+      "label": "SketchUp Reference",
+      "position": {
+        "x": 80,
+        "y": 90
+      },
+      "params": {},
+      "assetRefs": []
+    },
+    {
+      "id": "p1",
+      "type": "prompt",
+      "typeVersion": 1,
+      "label": "Architecture Prompt",
+      "position": {
+        "x": 80,
+        "y": 350
+      },
+      "params": {
+        "preset": "Modern Vietnamese house, natural light",
+        "userAppend": ""
+      }
+    },
+    {
+      "id": "gen1",
+      "type": "image-generate",
+      "typeVersion": 1,
+      "label": "Generate Image",
+      "position": {
+        "x": 440,
+        "y": 200
+      },
+      "modelRef": null,
+      "params": {}
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "source": "img1",
+      "sourcePort": "image",
+      "target": "gen1",
+      "targetPort": "referenceImage"
+    },
+    {
+      "id": "e2",
+      "source": "p1",
+      "sourcePort": "text",
+      "target": "gen1",
+      "targetPort": "prompt"
+    }
+  ],
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  },
+  "verifiedRunId": null
+}

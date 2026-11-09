@@ -1,0 +1,13 @@
+# FEATURE SPEC
+- ID / Tên:
+- Mức ưu tiên: P0/P1/P2
+- Lý do và người dùng:
+- Màn hình / điểm bắt đầu:
+- Đầu vào + quy tắc kiểm tra:
+- Các bước và thay đổi trạng thái:
+- Kết quả:
+- Loading/empty/error/offline/permission states:
+- Dữ liệu lưu trữ / quyền riêng tư:
+- Tiêu chí nghiệm thu (Given/When/Then):
+- Thiết bị / nền tảng áp dụng:
+- Hạn chế và phụ thuộc:

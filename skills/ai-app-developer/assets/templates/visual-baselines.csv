@@ -1,0 +1,3 @@
+Screen_ID,Viewport,Zoom,Platform,Priority,Baseline_Path,Actual_Path,Review_Status,Reviewer,Owner_Approval,Waiver_ID,Diff_Evidence,Notes
+SCR-001,1280x800,100,web,P0,,,NOT_RUN,,PENDING,,,
+SCR-001,390x844,100,android,P1,,,NOT_RUN,,PENDING,,,

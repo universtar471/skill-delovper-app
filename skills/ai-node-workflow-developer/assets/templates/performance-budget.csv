@@ -1,0 +1,2 @@
+Scenario,Platform,Target_Metric,Target_Value,Measured_Value,Environment,Evidence,Status
+Open editor,web,startup_seconds,SET_BY_PROJECT,,,NOT_RUN

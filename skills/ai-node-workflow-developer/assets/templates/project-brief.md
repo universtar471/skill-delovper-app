@@ -1,0 +1,13 @@
+# PROJECT_BRIEF
+- Tên dự án:
+- Người dùng mục tiêu:
+- Vấn đề cần giải quyết:
+- Nền tảng: Android / Windows / Web
+- Đầu vào: tiếng Việt / ảnh / video / app tham chiếu (đường dẫn, ngày kiểm tra):
+- Kết quả mong muốn và định nghĩa thành công:
+- Luồng thao tác P0:
+- Giới hạn ngân sách, offline, quyền truy cập, dữ liệu:
+- Tính năng không làm ở MVP:
+- Giả định cần xác nhận:
+- Yêu cầu cần hỏi (chỉ những gì chặn tiến độ):
+- Tình trạng: nháp / duyệt / thay đổi:

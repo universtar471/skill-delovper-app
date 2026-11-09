@@ -1,0 +1,12 @@
+# PROGRESS
+- Mốc thời gian:
+- Mục tiêu MVP:
+- Đã hoàn thành (với chứng cứ):
+- Đang làm:
+- Bị chặn:
+- Các file đã sửa / commit:
+- Lệnh kiểm thử và kết quả thực tế:
+- Quyết định mới / assumptions:
+- Rủi ro / lỗi còn lại:
+- Việc tiếp theo nhỏ nhất:
+- Hướng dẫn agent tiếp theo:

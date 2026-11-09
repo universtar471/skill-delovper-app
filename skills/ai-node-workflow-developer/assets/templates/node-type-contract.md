@@ -1,0 +1,15 @@
+# Node Type Contract
+- Node ID and stable type/version:
+- User label and icon:
+- Category (upload, prompt, generate, edit, upscale, preview, export, agent):
+- Typed inputs and outputs (port names, required/cardinality/validation):
+- Model selector (if applicable): verified eligible capabilities and fallback policy:
+- Agent/API/MCP/CLI adapter, permission and endpoint/command (no secrets):
+- Node controls (rename, duplicate, delete, convert) and conversion targets:
+- Drag handle, selection, shortcuts, hover and accessibility:
+- Media preview: thumbnail/video poster, click-to-expand, viewer controls and error states:
+- Prompt preview/editor: preset, append rules, collapsed/expanded, final prompt:
+- Running/queued/blocked/success/error/cancel/cache animation behavior:
+- Retry, timeout, cost and downstream cache invalidation:
+- Persistence: params, modelRef, assetRefs, typeVersion and migration:
+- Acceptance tests and evidence IDs:

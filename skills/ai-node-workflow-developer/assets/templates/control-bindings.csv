@@ -1,0 +1,2 @@
+control_id,screen_id,feature_id,capability_id,handler,adapter,enabled_state,implementation_status,mock_only,contract_test_id,live_test_id,e2e_test_id,evidence_path,notes
+CTRL-EXAMPLE,SCR-EXAMPLE,FEAT-EXAMPLE,CAP-EXAMPLE,UNVERIFIED,UNVERIFIED,disabled,NOT_STARTED,true,,,,,Example only

@@ -1,0 +1,2 @@
+REQ_ID,Priority,FEAT_ID,SCR_ID,CMP_ID,INT_ID,DATA_API,TASK_ID,TEST_ID,Reference_ID,Prototype_Evidence,Implementation_Evidence,Status,Owner_Approval
+REQ-001,must,FEAT-001,SCR-001,CMP-001,INT-001,DATA-001,TASK-001,TEST-001,UIREF-001,,,draft,pending

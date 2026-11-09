@@ -1,0 +1,22 @@
+# Control Contract — CTRL-000
+
+- Feature/requirement: FEAT- / REQ-
+- Screen and position: SCR- / region / order
+- Purpose (one command):
+- Control type: icon-button / toggle / menu entry / slider / handle / input / help
+- Icon: library, icon ID, license, size, hover/active treatment
+- Visible short label (only if essential):
+- Accessible name and keyboard shortcut:
+- Related help `?` control ID and hidden help text:
+- Visibility/enable conditions and disabled reason:
+- Input (source, type, units, defaults, allowed range, validation):
+- Trigger (tap, click, long press, drag, keyboard):
+- Output (state/data/file/API/navigation, confirmation, success feedback):
+- State transitions (idle, focus, pressed, active, disabled, loading, error):
+- Cancellation, undo/redo, retry:
+- Failure conditions and recovery:
+- Offline, permissions, duplicate input, accessibility:
+- Implementation file/function (if verified):
+- Prototype evidence / approved revision:
+- Test IDs, commands, results and proof:
+- Decision/deviation record:

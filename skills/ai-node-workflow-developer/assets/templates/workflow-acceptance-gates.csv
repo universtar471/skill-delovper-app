@@ -1,0 +1,5 @@
+Gate_ID,Requirement_ID,Priority,Description,Status,Evidence_Path,Validation_Command,Verified_At,Owner_Approval,Waiver_ID,Notes
+G1,REQ-001,P0,Node ports/IDs/contracts locked,NOT_STARTED,,,,PENDING,,
+G2,REQ-002,P0,Dry run graph and provider readiness,NOT_STARTED,,,,PENDING,,
+G5,REQ-003,P0,Real provider end-to-end image output,NOT_STARTED,,,,PENDING,,
+G6,REQ-004,P0,Reopen verified workflow with output manifest,NOT_STARTED,,,,PENDING,,

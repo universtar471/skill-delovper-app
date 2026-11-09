@@ -1,0 +1,13 @@
+{
+  "runId": "SAMPLE-NOT-RUN",
+  "status": "NOT_RUN",
+  "dryRun": true,
+  "mockOnly": true,
+  "startedAt": null,
+  "finishedAt": null,
+  "workflowHash": null,
+  "nodes": [],
+  "outputs": [],
+  "logEvidencePath": null,
+  "note": "Example shape only. Do not label verified."
+}

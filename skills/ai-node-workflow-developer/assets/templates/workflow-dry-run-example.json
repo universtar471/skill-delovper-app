@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "workflowId": "DEMO-NOT-A-LIVE-RUN",
+  "status": "draft",
+  "nodes": [
+    {"id": "image-1", "type": "image-input", "typeVersion": 1, "assetRefs": ["EXAMPLE-NOT-AN-ACTUAL-FILE"], "params": {}},
+    {"id": "prompt-1", "type": "prompt", "typeVersion": 1, "params": {"preset": "Modern Vietnamese architecture, preserve geometry"}},
+    {"id": "generate-1", "type": "image-generate", "typeVersion": 1, "modelRef": "fixture-image-model", "params": {"count": 1}},
+    {"id": "gallery-1", "type": "gallery", "typeVersion": 1, "params": {}}
+  ],
+  "edges": [
+    {"id": "e-1", "source": "image-1", "sourcePort": "image", "target": "generate-1", "targetPort": "referenceImage"},
+    {"id": "e-2", "source": "prompt-1", "sourcePort": "text", "target": "generate-1", "targetPort": "prompt"},
+    {"id": "e-3", "source": "generate-1", "sourcePort": "image", "target": "gallery-1", "targetPort": "images"}
+  ]
+}

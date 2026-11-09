@@ -1,0 +1,2 @@
+test_id,feature_id,model_id,task,environment,scenario,expected,actual,ran_at_utc,status,evidence_uri,notes
+TEST-MODEL-EXAMPLE,FEAT-ARCH-IMAGE-GENERATE,MODEL-EXAMPLE,text_to_image,development,Real minimal prompt produces image,Valid image artifact,NOT_RUN,,not_run,,Example only

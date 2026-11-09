@@ -1,0 +1,12 @@
+# Node workflow implementation checklist
+- [ ] Each node action maps to a working handler with state/inputs/outputs
+- [ ] Upload/generate image/video nodes include click-to-expand preview and fallback states
+- [ ] Preset prompts collapse; custom user prompt can be appended and persisted
+- [ ] Model displayed on each applicable node, selectable from verified compatible list
+- [ ] Running nodes and active edges animate from actual execution events; reduced motion supported
+- [ ] Rename, duplicate, convert, delete work with undo/redo and verified port mapping
+- [ ] Nodes can be dragged, multi-selected, positioned and auto-laid out without changing connections
+- [ ] Workflow draft/validated/verified run statuses are distinct
+- [ ] Workflow template saved only with linked successful run evidence
+- [ ] Versioning, restore, missing assets, missing models and secrets handled safely
+- [ ] 18 node E2E acceptance checks executed in target environment

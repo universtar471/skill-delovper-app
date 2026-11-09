@@ -1,0 +1,5 @@
+Gate_ID,Requirement_ID,Priority,Description,Status,Evidence_Path,Validation_Command,Verified_At,Owner_Approval,Waiver_ID,Notes
+G0,REQ-001,P0,Approve product brief,NOT_STARTED,,,,PENDING,,
+G1,REQ-002,P0,Approve feature baseline,NOT_STARTED,,,,PENDING,,
+G5,REQ-003,P0,Verify real end-to-end button path,NOT_STARTED,,,,PENDING,,
+G6,REQ-004,P0,Verify clean release build,NOT_STARTED,,,,PENDING,,

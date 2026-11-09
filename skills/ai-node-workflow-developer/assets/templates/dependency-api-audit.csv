@@ -1,0 +1,2 @@
+Feature_ID,Provider_or_Dependency,Transport,Version,License,Platform,Permissions,Verified_Operation,Status,Evidence_Path,Fallback,Owner_Decision
+FEAT-001,UNASSIGNED,API,UNVERIFIED,UNVERIFIED,web,UNVERIFIED,UNVERIFIED,CANDIDATE,,DISABLED,PENDING

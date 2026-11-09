@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "fixtureOnly": true,
+  "nodeTypes": {
+    "image-input": {"version": 1, "inputs": {}, "outputs": {"image": {"type": "IMAGE"}}, "isMediaInput": true, "capabilityStatus": "LOCAL_VERIFIED", "estimatedCostUsd": 0},
+    "prompt": {"version": 1, "inputs": {}, "outputs": {"text": {"type": "TEXT"}}, "requiredParams": ["preset"], "capabilityStatus": "LOCAL_VERIFIED", "estimatedCostUsd": 0},
+    "image-generate": {"version": 1, "inputs": {"referenceImage": {"type": "IMAGE", "required": true, "maxConnections": 1}, "prompt": {"type": "TEXT", "required": true, "maxConnections": 1}}, "outputs": {"image": {"type": "IMAGE"}}, "requiresModel": true, "models": {"fixture-image-model": {"status": "MOCK"}}, "capabilityStatus": "MOCK", "estimatedCostUsd": 0.1},
+    "gallery": {"version": 1, "inputs": {"images": {"type": "IMAGE", "required": true, "maxConnections": null}}, "outputs": {"selectedImage": {"type": "IMAGE"}}, "capabilityStatus": "LOCAL_VERIFIED", "estimatedCostUsd": 0}
+  }
+}
